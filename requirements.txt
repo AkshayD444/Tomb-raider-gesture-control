@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+vgamepad
+SpeechRecognition
+numpy
+PyAudio
